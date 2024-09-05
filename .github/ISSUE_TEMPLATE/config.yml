@@ -1,7 +1,10 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Pytannja ta propozyciji
-    url: https://t.me/vitalij_r2
+  - name: Questions and suggestions
+    url: 'https://t.me/vitalij_r2'
     about: |
-      Jakščo u vas je pytannja čy propozyciji možete napysaty meni
-      prjamo v Telegram
+      Jakščo u vas je pytannja čy propozyciji možete napysaty
+      meni prjamo v Telegram | If you have questions
+      or suggestions, you can write to me directly in
+      Telegram | Якщо у вас є питання чи пропозиції можете
+      написати мені прямо в Телеграм

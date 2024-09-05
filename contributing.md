@@ -22,4 +22,4 @@ Contribute your fixes and new features back to the main codebase using
 [github-issues]: https://github.com/vitalijr2/uacashbackbot/issues
 [issue-guidelines]: http://github.com/necolas/issue-guidelines/#readme
 [github-project]: https://github.com/vitalijr2/uacashbackbot
-[github-pull-requests]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+[github-pull-requests]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests

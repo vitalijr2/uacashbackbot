@@ -7,3 +7,4 @@ Telegram бот для пошуку або перевірки товарів щ�
 [![Latynka](https://img.shields.io/badge/%F0%9F%93%84-Latynka-blue)](readme.md)
 
 [madeinukraine]: https://madeinukraine.gov.ua/
+
